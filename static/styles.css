@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-box {
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 33%;
+    height: 600px;
+    width: 400px;
+}
